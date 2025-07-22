@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/computerDead.gif" alt="Animated Header" width="100%" />
+  <img src="https://github.com/Jasonmik/jasonmik/raw/main/src/computerDead.gif" alt="Animated Header" width="100%" />
 </p>
 
 # JasonMik 👋
